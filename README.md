@@ -4,7 +4,7 @@ I build and evaluate generative policies for robotic manipulation, with a focus 
 
 My current work connects model research with deployment: multi-view RGB and robot-state observations are mapped to executable action chunks, trained under reproducible data contracts, and evaluated in Isaac-based manipulation environments.
 
-[Research profile](#research-focus) · [Selected work](#selected-work) · [Kurzprofil auf Deutsch](#kurzprofil-auf-deutsch) · [中文简介](#中文简介)
+[Portfolio](https://alex7537.github.io/) · [Research profile](#research-focus) · [Selected work](#selected-work) · [Kurzprofil auf Deutsch](#kurzprofil-auf-deutsch) · [中文简介](#中文简介)
 
 ## Research focus
 
@@ -54,7 +54,4 @@ Aktuell suche ich eine Masterarbeit im Bereich Robot Learning, Embodied AI, gene
 
 我的研究与项目主要围绕生成式机器人策略、Flow Matching、Diffusion Policy、World Action Models、Isaac 仿真评估，以及工业场景中的双目视觉与 6D 位姿估计。中文技术细节保留在各项目的 `README.zh-CN.md` 中，默认项目入口使用英文，便于国际研究人员阅读。
 
-## Additional project
-
-- [Robotics Application Board](https://alex7537.github.io/robotics-application-board/) — a lightweight tracker for robotics and Master's thesis applications; this is an organizational tool rather than a research result.
 
